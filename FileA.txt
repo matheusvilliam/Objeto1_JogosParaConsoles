@@ -1,1 +1,2 @@
 nome.string
+cpf.int
